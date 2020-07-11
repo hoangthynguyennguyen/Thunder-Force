@@ -1,0 +1,1652 @@
+fileFormatVersion: 2
+guid: 827efaa17a037439abbd1893698e96d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1097915149863049949
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_0
+  - first:
+      213: 209030416297140180
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_1
+  - first:
+      213: -512700035465424124
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_2
+  - first:
+      213: -1025578903141332499
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_3
+  - first:
+      213: -4834025210547015180
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_4
+  - first:
+      213: 6510360422263289939
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_5
+  - first:
+      213: -4869522509635182927
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_6
+  - first:
+      213: -5446455265899353154
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_7
+  - first:
+      213: -4663293162538921122
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_8
+  - first:
+      213: -8916855676843854854
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_9
+  - first:
+      213: 2235128129564007503
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_10
+  - first:
+      213: 6632178839119702267
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_11
+  - first:
+      213: 1931295343086779057
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_12
+  - first:
+      213: -5267458974846799523
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_13
+  - first:
+      213: -108995778762846823
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_14
+  - first:
+      213: 5636100198605422426
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_15
+  - first:
+      213: -2690471289086676296
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_16
+  - first:
+      213: -7336420757463868527
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_17
+  - first:
+      213: -1431454535342997545
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_18
+  - first:
+      213: 6049277738492967718
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_19
+  - first:
+      213: 6259287656859858604
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_20
+  - first:
+      213: 6541564869622069379
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_21
+  - first:
+      213: -549819531927707090
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_22
+  - first:
+      213: 5412251148696092527
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_23
+  - first:
+      213: 4407866908044531840
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_24
+  - first:
+      213: 3985531830395111207
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_25
+  - first:
+      213: -1342924831718332933
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_26
+  - first:
+      213: 538873921702982334
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_27
+  - first:
+      213: 9058546728307046887
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_28
+  - first:
+      213: 1229649791487413307
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_29
+  - first:
+      213: 4678400027621782206
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_30
+  - first:
+      213: 3335005167305984015
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_31
+  - first:
+      213: -4327776099730878008
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_32
+  - first:
+      213: 5040366250454393282
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_33
+  - first:
+      213: 4895315865501403004
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_34
+  - first:
+      213: 6038620791334017007
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_35
+  - first:
+      213: 8578412934958515675
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_36
+  - first:
+      213: -4215693600904313317
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_37
+  - first:
+      213: 5046575736517541198
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_38
+  - first:
+      213: -6942128831013880763
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_39
+  - first:
+      213: 124071947855780386
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_40
+  - first:
+      213: -7739322231544196118
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_41
+  - first:
+      213: -327871283658269336
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_42
+  - first:
+      213: 6058785463333163419
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_43
+  - first:
+      213: 4214028947077803176
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_44
+  - first:
+      213: -5816859639869739211
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_45
+  - first:
+      213: 5360425923815681781
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_46
+  - first:
+      213: 6201586051998000525
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_47
+  - first:
+      213: -5530942614732704084
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_48
+  - first:
+      213: 4599747704070419671
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_49
+  - first:
+      213: -3402104555330852454
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_50
+  - first:
+      213: 4646308500400454753
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_51
+  - first:
+      213: 6799118724579971984
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_52
+  - first:
+      213: 5698035071070031775
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_53
+  - first:
+      213: -4908606713680626410
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_54
+  - first:
+      213: -6379359857960621315
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_55
+  - first:
+      213: -1083844505227157983
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_56
+  - first:
+      213: 8650521075783998727
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_57
+  - first:
+      213: -8540415179400336246
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_58
+  - first:
+      213: 6230822118960249923
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_59
+  - first:
+      213: -2003958094653443363
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_60
+  - first:
+      213: -2670370484392378543
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_61
+  - first:
+      213: 2553682540894997559
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_62
+  - first:
+      213: -6033854039670583655
+    second: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1345
+        width: 202
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5b1503049c3f00800000000000000
+      internalID: 1097915149863049949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1345
+        width: 210
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df94ae5e00a6e200800000000000000
+      internalID: 209030416297140180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1345
+        width: 192
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d0cdb80682e8f0800000000000000
+      internalID: -512700035465424124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_3
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1352
+        width: 212
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9402ddb6964c1f0800000000000000
+      internalID: -1025578903141332499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_4
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1346
+        width: 211
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ff0acea71aecb0800000000000000
+      internalID: -4834025210547015180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1356
+        width: 229
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358f3c88f42795a50800000000000000
+      internalID: 6510360422263289939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_6
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1345
+        width: 232
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be1d6bc31bfb6cb0800000000000000
+      internalID: -4869522509635182927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_7
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1339
+        width: 261
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb630fcacd4a64b0800000000000000
+      internalID: -5446455265899353154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_8
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1339
+        width: 247
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e531c5b6397a84fb0800000000000000
+      internalID: -4663293162538921122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1043
+        width: 236
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fb446107f04480800000000000000
+      internalID: -8916855676843854854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1018
+        width: 277
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c552e0135c40f10800000000000000
+      internalID: 2235128129564007503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1001
+        width: 251
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8a790f38b3a0c50800000000000000
+      internalID: 6632178839119702267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1001
+        width: 258
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1babd01d1e65dca10800000000000000
+      internalID: 1931295343086779057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_13
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1010
+        width: 204
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51305778f936e6b0800000000000000
+      internalID: -5267458974846799523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_14
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1015
+        width: 200
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dc2dcaae4cc7ef0800000000000000
+      internalID: -108995778762846823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_15
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1029
+        width: 205
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f7260f443773e40800000000000000
+      internalID: 5636100198605422426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_16
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 1009
+        width: 209
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2f9970e9689aad0800000000000000
+      internalID: -2690471289086676296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_17
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1009
+        width: 212
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b509ce03ccf2a90800000000000000
+      internalID: -7336420757463868527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 686
+        width: 187
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df32cc2fa3722ce0800000000000000
+      internalID: -1431454535342997545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_19
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 681
+        width: 262
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3d8e7d0a53f350800000000000000
+      internalID: 6049277738492967718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_20
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 681
+        width: 253
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca67e16f5f47dd650800000000000000
+      internalID: 6259287656859858604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_21
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 672
+        width: 188
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887ff8179e48ca50800000000000000
+      internalID: 6541564869622069379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_22
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 672
+        width: 188
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22a0ec7c06ae58f0800000000000000
+      internalID: -549819531927707090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_23
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 671
+        width: 206
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffa319ebd2c1b40800000000000000
+      internalID: 5412251148696092527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_24
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 671
+        width: 205
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08891375993eb2d30800000000000000
+      internalID: 4407866908044531840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_25
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 672
+        width: 200
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72786bf55147f4730800000000000000
+      internalID: 3985531830395111207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_26
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 672
+        width: 186
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a06d0bf8fc5de0800000000000000
+      internalID: -1342924831718332933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_27
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 324
+        width: 263
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f3d90af67a7700800000000000000
+      internalID: 538873921702982334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 325
+        width: 258
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b402514c66bd70800000000000000
+      internalID: 9058546728307046887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_29
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 326
+        width: 257
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c8dbb68f7901110800000000000000
+      internalID: 1229649791487413307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_30
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 324
+        width: 195
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2f293b9040de040800000000000000
+      internalID: 4678400027621782206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_31
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 324
+        width: 195
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f088d51b781584e20800000000000000
+      internalID: 3335005167305984015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_32
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 324
+        width: 201
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c19d1c1196a0f3c0800000000000000
+      internalID: -4327776099730878008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_33
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 317
+        width: 246
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1a338566af2f540800000000000000
+      internalID: 5040366250454393282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_34
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 478
+        width: 118
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c778b8ad7d7afe340800000000000000
+      internalID: 4895315865501403004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_35
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 482
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe790c0ad9d7dc350800000000000000
+      internalID: 6038620791334017007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_36
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 493
+        width: 201
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd581dc2d15ac0770800000000000000
+      internalID: 8578412934958515675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_37
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 393
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1606347109de75c0800000000000000
+      internalID: -4215693600904313317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_38
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 381
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dbb3bf4e9090640800000000000000
+      internalID: 5046575736517541198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_39
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 257
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c7b62fb9a98af90800000000000000
+      internalID: -6942128831013880763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_40
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 243
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ad88a77cac8b100800000000000000
+      internalID: 124071947855780386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_41
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 258
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae356826f67689490800000000000000
+      internalID: -7739322231544196118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_42
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 173
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d5f7dfdca237bf0800000000000000
+      internalID: -327871283658269336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_43
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 221
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9116403741251450800000000000000
+      internalID: 6058785463333163419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_44
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 220
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac29cf100d3b7a30800000000000000
+      internalID: 4214028947077803176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_45
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 219
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe1410afc564fa0800000000000000
+      internalID: -5816859639869739211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_46
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 215
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe24d91afe046a40800000000000000
+      internalID: 5360425923815681781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_47
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 212
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85ab5928a5701650800000000000000
+      internalID: 6201586051998000525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_48
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 163
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca679cffef42e33b0800000000000000
+      internalID: -5530942614732704084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_49
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 194
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d439859a2695df30800000000000000
+      internalID: 4599747704070419671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_50
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 121
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9924ca9eeb49c0d0800000000000000
+      internalID: -3402104555330852454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_51
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 190
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3f33c6f00b7040800000000000000
+      internalID: 4646308500400454753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_52
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 187
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093db4ce4725b5e50800000000000000
+      internalID: 6799118724579971984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_53
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 184
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc8d825bc731f40800000000000000
+      internalID: 5698035071070031775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_54
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 180
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61df7f8633021ebb0800000000000000
+      internalID: -4908606713680626410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_55
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 96
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaeedb2206f777a0800000000000000
+      internalID: -6379359857960621315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_56
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 25
+        width: 85
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1d2a3a2965f0f0800000000000000
+      internalID: -1083844505227157983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_57
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 27
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d92240613dc0870800000000000000
+      internalID: 8650521075783998727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_58
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 62
+        width: 74
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c2d75b4a95a7980800000000000000
+      internalID: -8540415179400336246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_59
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 16
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cb54374b3587650800000000000000
+      internalID: 6230822118960249923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_60
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 12
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2b967fab28034e0800000000000000
+      internalID: -2003958094653443363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_61
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 49
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fba135130f0fad0800000000000000
+      internalID: -2670370484392378543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_62
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 60
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cc92fadb0807320800000000000000
+      internalID: 2553682540894997559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom Edited - Paper Mario Customs - Mario Paper Mario-Style_63
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1514
+        width: 715
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e01ea38b1734ca0800000000000000
+      internalID: -6033854039670583655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

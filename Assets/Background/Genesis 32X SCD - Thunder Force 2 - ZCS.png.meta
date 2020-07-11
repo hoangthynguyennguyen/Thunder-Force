@@ -1,0 +1,2732 @@
+fileFormatVersion: 2
+guid: 961196450e77f4bdeaca5f02cf372cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3934074148597972923
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_0
+  - first:
+      213: -6031286759912382354
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_1
+  - first:
+      213: -3676322461068010874
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_2
+  - first:
+      213: -5017153550422453857
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_3
+  - first:
+      213: 2063338586283380334
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_4
+  - first:
+      213: 3094193354185148408
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_5
+  - first:
+      213: -5764653796587683959
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_6
+  - first:
+      213: -3806116376073553937
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_7
+  - first:
+      213: 7642572259170927548
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_8
+  - first:
+      213: 657918976892477843
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_9
+  - first:
+      213: -5866665858739107105
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_10
+  - first:
+      213: -3483190346430894502
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_11
+  - first:
+      213: 4719214502904738976
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_12
+  - first:
+      213: 6161838963978432610
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_13
+  - first:
+      213: 3005413659826132859
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_14
+  - first:
+      213: -3295296611233981208
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_15
+  - first:
+      213: -4043553809292863549
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_16
+  - first:
+      213: -8745018645277636018
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_17
+  - first:
+      213: 4934397915190192639
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_18
+  - first:
+      213: 8990001418496778325
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_19
+  - first:
+      213: -8036629104007397506
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_20
+  - first:
+      213: 8862402510663885026
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_21
+  - first:
+      213: -5837595903317196771
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_22
+  - first:
+      213: 3225551800494637547
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_23
+  - first:
+      213: -3984793617918149955
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_24
+  - first:
+      213: -8106391252358719166
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_25
+  - first:
+      213: -1078973155260656251
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_26
+  - first:
+      213: -526547619468403587
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_27
+  - first:
+      213: 4283196501474770201
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_28
+  - first:
+      213: 9045379859194125816
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_29
+  - first:
+      213: 2824544061803910184
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_30
+  - first:
+      213: 7750774379327102554
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_31
+  - first:
+      213: -6836500375005774864
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_32
+  - first:
+      213: 3581658368440960285
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_33
+  - first:
+      213: 6988803217197496891
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_34
+  - first:
+      213: -6115137256423321574
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_35
+  - first:
+      213: -6110660795536022416
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_36
+  - first:
+      213: 6619247858224801155
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_37
+  - first:
+      213: 742643612780048770
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_38
+  - first:
+      213: -7209179995086778959
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_39
+  - first:
+      213: -8058588893312378076
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_40
+  - first:
+      213: -7284474449170865438
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_41
+  - first:
+      213: 3584894480533596872
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_42
+  - first:
+      213: -4642592903050367818
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_43
+  - first:
+      213: 5894583942328430796
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_44
+  - first:
+      213: -7700094721977693357
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_45
+  - first:
+      213: 1946303713133971555
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_46
+  - first:
+      213: -719229534000149794
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_47
+  - first:
+      213: -527246956146276337
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_48
+  - first:
+      213: 912047595187111507
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_49
+  - first:
+      213: -3414955930761103804
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_50
+  - first:
+      213: 5890532229092552984
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_51
+  - first:
+      213: -5565070023063277296
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_52
+  - first:
+      213: 8815675588482321564
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_53
+  - first:
+      213: -1179193054223096492
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_54
+  - first:
+      213: 8663993269473785441
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_55
+  - first:
+      213: 2078110409296990578
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_56
+  - first:
+      213: 2100454224438040000
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_57
+  - first:
+      213: 1546109616370009015
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_58
+  - first:
+      213: 1913910909287618304
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_59
+  - first:
+      213: -5315666824206151803
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_60
+  - first:
+      213: -8894937294166761827
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_61
+  - first:
+      213: -8840771519095547576
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_62
+  - first:
+      213: -8782334835217113902
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_63
+  - first:
+      213: -462243078349760624
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_64
+  - first:
+      213: 4909580466295243879
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_65
+  - first:
+      213: 7723111203492340217
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_66
+  - first:
+      213: -5717464005668974346
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_67
+  - first:
+      213: 4508747984711263285
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_68
+  - first:
+      213: 3146887658444609437
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_69
+  - first:
+      213: 4747676319090755624
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_70
+  - first:
+      213: 4992997036277784185
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_71
+  - first:
+      213: -4550499276715271347
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_72
+  - first:
+      213: -7601251294759082798
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_73
+  - first:
+      213: 7582561700547511306
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_74
+  - first:
+      213: 4197311088133473211
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_75
+  - first:
+      213: 2509129168734431694
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_76
+  - first:
+      213: 2814045654855595302
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_77
+  - first:
+      213: -2888413233842078592
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_78
+  - first:
+      213: -8768534481141323771
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_79
+  - first:
+      213: 9159462140977861968
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_80
+  - first:
+      213: -9128831586634894547
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_81
+  - first:
+      213: -8679583211037119036
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_82
+  - first:
+      213: 5883533999888193206
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_83
+  - first:
+      213: 2150978269246733777
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_84
+  - first:
+      213: 2234098136264165973
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_85
+  - first:
+      213: 3054468540917245381
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_86
+  - first:
+      213: -8758456450551036843
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_87
+  - first:
+      213: -2672895364504131909
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_88
+  - first:
+      213: -1566298943529167625
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_89
+  - first:
+      213: -8461834819652428970
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_90
+  - first:
+      213: 8974935644088403374
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_91
+  - first:
+      213: -7817568766469439933
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_92
+  - first:
+      213: 6069747747540187808
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_93
+  - first:
+      213: 7460724461606938197
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_94
+  - first:
+      213: 7329119962392154980
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_95
+  - first:
+      213: 7422312087559658728
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_96
+  - first:
+      213: -125947443631770283
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_97
+  - first:
+      213: -8530982097570234500
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_98
+  - first:
+      213: -6746816608332279636
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_99
+  - first:
+      213: -4596596695176650147
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_100
+  - first:
+      213: -4849990825865211034
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_101
+  - first:
+      213: -7109711938873681411
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_102
+  - first:
+      213: -4197110247820048624
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_103
+  - first:
+      213: 7625055975985302173
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_104
+  - first:
+      213: 6272972815062525280
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_105
+  - first:
+      213: -6676972810412290590
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_106
+  - first:
+      213: -2101920153340145099
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_107
+  - first:
+      213: 6466490183208514115
+    second: Genesis 32X SCD - Thunder Force 2 - ZCS_108
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 169
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfba333893a89630800000000000000
+      internalID: 3934074148597972923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 169
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60e7e0a5a09c4ca0800000000000000
+      internalID: -6031286759912382354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a504c13341bfcc0800000000000000
+      internalID: -3676322461068010874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_3
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 143
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91da7b8d6d7f5ab0800000000000000
+      internalID: -5017153550422453857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 143
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e07ce138372ac10800000000000000
+      internalID: 2063338586283380334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7849e3678c0fa20800000000000000
+      internalID: 3094193354185148408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 143
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb8491ae5dfffa0800000000000000
+      internalID: -5764653796587683959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 143
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b6565255fd2bc0800000000000000
+      internalID: -3806116376073553937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb343264afedf0a60800000000000000
+      internalID: 7642572259170927548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912aacd2d5612900800000000000000
+      internalID: 657918976892477843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 122
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda81f10c7a659ea0800000000000000
+      internalID: -5866665858739107105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 122
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5eaaeba5d839afc0800000000000000
+      internalID: -3483190346430894502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4328046940e7140800000000000000
+      internalID: 4719214502904738976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 122
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260781314ef338550800000000000000
+      internalID: 6161838963978432610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 122
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771b0ddccf55b920800000000000000
+      internalID: 3005413659826132859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 122
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec99d9f031c442d0800000000000000
+      internalID: -3295296611233981208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7dbeeeb3962e7c0800000000000000
+      internalID: -4043553809292863549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a0f0e00e373a680800000000000000
+      internalID: -8745018645277636018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 106
+        width: 64
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9e653a2c08a7440800000000000000
+      internalID: 4934397915190192639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55022c7b8a6e2cc70800000000000000
+      internalID: 8990001418496778325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 100
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fb218e868287090800000000000000
+      internalID: -8036629104007397506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a6a0e0249dfa70800000000000000
+      internalID: 8862402510663885026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_22
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10c0807471bcfea0800000000000000
+      internalID: -5837595903317196771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1ca19d54673cc20800000000000000
+      internalID: 3225551800494637547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbabebc115b23b8c0800000000000000
+      internalID: -3984793617918149955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24913d00b10508f80800000000000000
+      internalID: -8106391252358719166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5859186c1a7b601f0800000000000000
+      internalID: -1078973155260656251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c1248dab351b8f0800000000000000
+      internalID: -526547619468403587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_28
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d79955688f07b30800000000000000
+      internalID: 4283196501474770201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1db5be05a78d70800000000000000
+      internalID: 9045379859194125816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824d240fbdbc23720800000000000000
+      internalID: 2824544061803910184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e9dfd8b38409b60800000000000000
+      internalID: 7750774379327102554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_32
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 58
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb4f8512fdf11a0800000000000000
+      internalID: -6836500375005774864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_33
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d158ab54f4b94b130800000000000000
+      internalID: 3581658368440960285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 44
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af92e6f773df060800000000000000
+      internalID: 6988803217197496891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10912e801ba22ba0800000000000000
+      internalID: -6115137256423321574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_36
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0746b23d162923ba0800000000000000
+      internalID: -6110660795536022416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38521c55bda4cdb50800000000000000
+      internalID: 6619247858224801155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_38
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b77e5e666e4a00800000000000000
+      internalID: 742643612780048770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_39
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 58
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd00078df8d3fb90800000000000000
+      internalID: -7209179995086778959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b153709142a2090800000000000000
+      internalID: -8058588893312378076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e2c1551958ea90800000000000000
+      internalID: -7284474449170865438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caa675598a10c130800000000000000
+      internalID: 3584894480533596872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 58
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bceee82a52329fb0800000000000000
+      internalID: -4642592903050367818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_44
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 44
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0353d5dd4cdc150800000000000000
+      internalID: 5894583942328430796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bc8afa5a4c32590800000000000000
+      internalID: -7700094721977693357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368cf564ae8a20b10800000000000000
+      internalID: 1946303713133971555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda83f9ac88c406f0800000000000000
+      internalID: -719229534000149794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 58
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cef5dfa7dea8f0800000000000000
+      internalID: -527246956146276337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3568061a47e38ac00800000000000000
+      internalID: 912047595187111507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446fe579ca3ab90d0800000000000000
+      internalID: -3414955930761103804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8113d0d5adf5fb150800000000000000
+      internalID: 5890532229092552984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011732d8c46e4c2b0800000000000000
+      internalID: -5565070023063277296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 44
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c42928d32975a70800000000000000
+      internalID: 8815675588482321564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 58
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ac613a2aa2afe0800000000000000
+      internalID: -1179193054223096492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_55
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 44
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663c5b89ffac3870800000000000000
+      internalID: 8663993269473785441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_56
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271503e286ee6dc10800000000000000
+      internalID: 2078110409296990578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_57
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5199a0dff462d10800000000000000
+      internalID: 2100454224438040000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3cc832182e47510800000000000000
+      internalID: 1546109616370009015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_59
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00755d7e4d39f8a10800000000000000
+      internalID: 1913910909287618304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_60
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f0ddedf25fa36b0800000000000000
+      internalID: -5315666824206151803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_61
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed0d988a5de8480800000000000000
+      internalID: -8894937294166761827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8495befc4254f4580800000000000000
+      internalID: -8840771519095547576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc58588ff0ee1680800000000000000
+      internalID: -8782334835217113902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097541b8e58c599f0800000000000000
+      internalID: -462243078349760624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_65
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 31
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76489b90c65522440800000000000000
+      internalID: 4909580466295243879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_66
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1200588b00e2b60800000000000000
+      internalID: 7723111203492340217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d40e77cc77a0b0800000000000000
+      internalID: -5717464005668974346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_68
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534297a576a429e30800000000000000
+      internalID: 4508747984711263285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_69
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 32
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d6a507adfbab20800000000000000
+      internalID: 3146887658444609437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82840fb357223e140800000000000000
+      internalID: 4747676319090755624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_71
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e5ae7b950ba4540800000000000000
+      internalID: 4992997036277784185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_72
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 32
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bd6b4740169d0c0800000000000000
+      internalID: -4550499276715271347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d42867783ee28690800000000000000
+      internalID: -7601251294759082798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_74
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04cd9841bbaa3960800000000000000
+      internalID: 7582561700547511306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_75
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb301044238df3a30800000000000000
+      internalID: 4197311088133473211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_76
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9acfd5fa732d220800000000000000
+      internalID: 2509129168734431694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_77
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62536671d9f7d0720800000000000000
+      internalID: 2814045654855595302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c3e40a77b4ae7d0800000000000000
+      internalID: -2888413233842078592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508aecad858ef4680800000000000000
+      internalID: -8768534481141323771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055df9ec942fc1f70800000000000000
+      internalID: 9159462140977861968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_81
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23f240e900ef4180800000000000000
+      internalID: -9128831586634894547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_82
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd20b35e0deb8780800000000000000
+      internalID: -8679583211037119036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d447200386a150800000000000000
+      internalID: 5883533999888193206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_84
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd390ae65fc9dd10800000000000000
+      internalID: 2150978269246733777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_85
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a436d0b6c110f10800000000000000
+      internalID: 2234098136264165973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_86
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c56af664f6a36a20800000000000000
+      internalID: 3054468540917245381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5544d243346b37680800000000000000
+      internalID: -8758456450551036843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_88
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb661fcd3d7f7ead0800000000000000
+      internalID: -2672895364504131909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_89
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4dfd2d863634ae0800000000000000
+      internalID: -1566298943529167625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_90
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd5927016819a80800000000000000
+      internalID: -8461834819652428970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 20
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea581e3ca606d8c70800000000000000
+      internalID: 8974935644088403374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_92
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e766b40aa628390800000000000000
+      internalID: -7817568766469439933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_93
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa3c50ea631c3450800000000000000
+      internalID: 6069747747540187808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_94
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55626258e51d98760800000000000000
+      internalID: 7460724461606938197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463db9246c346b560800000000000000
+      internalID: 7329119962392154980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_96
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecd41fb489510760800000000000000
+      internalID: 7422312087559658728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b5f1a77b804ef0800000000000000
+      internalID: -125947443631770283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ffb193bfcdb9980800000000000000
+      internalID: -8530982097570234500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_99
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca016a77a0e7e52a0800000000000000
+      internalID: -6746816608332279636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_100
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e248d8ab9530c0800000000000000
+      internalID: -4596596695176650147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_101
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663966c4a0f51bcb0800000000000000
+      internalID: -4849990825865211034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9941419aa355d90800000000000000
+      internalID: -7109711938873681411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_103
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017c883877ed0c5c0800000000000000
+      internalID: -4197110247820048624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac219c204a1d960800000000000000
+      internalID: 7625055975985302173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_105
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065eb772a831e0750800000000000000
+      internalID: 6272972815062525280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed0f64ea90a653a0800000000000000
+      internalID: -6676972810412290590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_107
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 8
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5321de9c1ca74d2e0800000000000000
+      internalID: -2101920153340145099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 2 - ZCS_108
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 6
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b1b98f869db950800000000000000
+      internalID: 6466490183208514115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

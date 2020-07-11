@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 97680a4ac1b634b8696c10a977072244
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2774303814205500428
+    second: PC Computer - RPG Maker MV - Thunder 1_0
+  - first:
+      213: 5724931845530829576
+    second: PC Computer - RPG Maker MV - Thunder 1_1
+  - first:
+      213: -168864914256517417
+    second: PC Computer - RPG Maker MV - Thunder 1_2
+  - first:
+      213: 8692181849075476118
+    second: PC Computer - RPG Maker MV - Thunder 1_3
+  - first:
+      213: -5783342432415093037
+    second: PC Computer - RPG Maker MV - Thunder 1_4
+  - first:
+      213: 2707509705012978556
+    second: PC Computer - RPG Maker MV - Thunder 1_5
+  - first:
+      213: -333958405575177632
+    second: PC Computer - RPG Maker MV - Thunder 1_6
+  - first:
+      213: 1195200391834486266
+    second: PC Computer - RPG Maker MV - Thunder 1_7
+  - first:
+      213: -6037363695840492751
+    second: PC Computer - RPG Maker MV - Thunder 1_8
+  - first:
+      213: 3986490218709873743
+    second: PC Computer - RPG Maker MV - Thunder 1_9
+  - first:
+      213: 406613728435399735
+    second: PC Computer - RPG Maker MV - Thunder 1_10
+  - first:
+      213: -7594256312073217216
+    second: PC Computer - RPG Maker MV - Thunder 1_11
+  - first:
+      213: 7696319194637500112
+    second: PC Computer - RPG Maker MV - Thunder 1_12
+  - first:
+      213: -3644996222724056272
+    second: PC Computer - RPG Maker MV - Thunder 1_13
+  - first:
+      213: 403897274497555159
+    second: PC Computer - RPG Maker MV - Thunder 1_14
+  - first:
+      213: -7925837891487402290
+    second: PC Computer - RPG Maker MV - Thunder 1_15
+  - first:
+      213: 4271037017544755585
+    second: PC Computer - RPG Maker MV - Thunder 1_16
+  - first:
+      213: 4535516430663288752
+    second: PC Computer - RPG Maker MV - Thunder 1_17
+  - first:
+      213: -5367907254072895709
+    second: PC Computer - RPG Maker MV - Thunder 1_18
+  - first:
+      213: 3882408093990023194
+    second: PC Computer - RPG Maker MV - Thunder 1_19
+  - first:
+      213: -4145537461323755188
+    second: PC Computer - RPG Maker MV - Thunder 1_20
+  - first:
+      213: 1499918211046717706
+    second: PC Computer - RPG Maker MV - Thunder 1_21
+  - first:
+      213: 7036562530347874546
+    second: PC Computer - RPG Maker MV - Thunder 1_22
+  - first:
+      213: 1251084635944301509
+    second: PC Computer - RPG Maker MV - Thunder 1_23
+  - first:
+      213: -1106369610796296376
+    second: PC Computer - RPG Maker MV - Thunder 1_24
+  - first:
+      213: 7551910919176676483
+    second: PC Computer - RPG Maker MV - Thunder 1_25
+  - first:
+      213: 3921222308787236725
+    second: PC Computer - RPG Maker MV - Thunder 1_26
+  - first:
+      213: -90050853237725819
+    second: PC Computer - RPG Maker MV - Thunder 1_27
+  - first:
+      213: 5002037305437753632
+    second: PC Computer - RPG Maker MV - Thunder 1_28
+  - first:
+      213: -4317820570937235014
+    second: PC Computer - RPG Maker MV - Thunder 1_29
+  - first:
+      213: -7749749794923247962
+    second: PC Computer - RPG Maker MV - Thunder 1_30
+  - first:
+      213: 2593304501794717881
+    second: PC Computer - RPG Maker MV - Thunder 1_31
+  - first:
+      213: -3859701828047618866
+    second: PC Computer - RPG Maker MV - Thunder 1_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 392
+        width: 98
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3154f3161bf79d0800000000000000
+      internalID: -2774303814205500428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 396
+        width: 123
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803cf287e2b037f40800000000000000
+      internalID: 5724931845530829576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 391
+        width: 158
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6a6b2514218adf0800000000000000
+      internalID: -168864914256517417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 396
+        width: 114
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ed3da655d0a870800000000000000
+      internalID: 8692181849075476118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 401
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de647df2b07dbfa0800000000000000
+      internalID: -5783342432415093037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 205
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a8315bb1039520800000000000000
+      internalID: 2707509705012978556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 223
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a8fe9799a8d5bf0800000000000000
+      internalID: -333958405575177632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 255
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5c3b68c64369010800000000000000
+      internalID: 1195200391834486266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 255
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1338699b4b9f63ca0800000000000000
+      internalID: -6037363695840492751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 243
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4475ca8bbbd25730800000000000000
+      internalID: 3986490218709873743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 250
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c603c180594a500800000000000000
+      internalID: 406613728435399735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 247
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b9b99ce18cb9690800000000000000
+      internalID: -7594256312073217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 198
+        width: 166
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de736ad781deca60800000000000000
+      internalID: 7696319194637500112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_13
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 201
+        width: 175
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b54e85f3f5a6dc0800000000000000
+      internalID: -3644996222724056272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 219
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadc246e6eea9500800000000000000
+      internalID: 403897274497555159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 225
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6ff8a3e64c10290800000000000000
+      internalID: -7925837891487402290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 205
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898c4dd985c54b30800000000000000
+      internalID: 4271037017544755585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_17
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 223
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b702aad92461fe30800000000000000
+      internalID: 4535516430663288752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 216
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271eb5facc5185b0800000000000000
+      internalID: -5367907254072895709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_19
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 224
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a107063779511e530800000000000000
+      internalID: 3882408093990023194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 230
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4119b694a71876c0800000000000000
+      internalID: -4145537461323755188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 199
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0934918aa7c0d410800000000000000
+      internalID: 1499918211046717706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8753d0754e6a160800000000000000
+      internalID: 7036562530347874546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 200
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3b86d09debc5110800000000000000
+      internalID: 1251084635944301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 212
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847133663b265a0f0800000000000000
+      internalID: -1106369610796296376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_25
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 193
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3846be028f6cdc860800000000000000
+      internalID: 7551910919176676483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 197
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fa9901aeafa6630800000000000000
+      internalID: 3921222308787236725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 5
+        width: 169
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5856b01e93310cef0800000000000000
+      internalID: -90050853237725819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_28
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 192
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0219ed76d6eca6540800000000000000
+      internalID: 5002037305437753632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9696941150414c0800000000000000
+      internalID: -4317820570937235014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a681771f9b537490800000000000000
+      internalID: -7749749794923247962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_31
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b045e754b44df320800000000000000
+      internalID: 2593304501794717881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - RPG Maker MV - Thunder 1_32
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 7
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eccbb4013a59f6ac0800000000000000
+      internalID: -3859701828047618866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

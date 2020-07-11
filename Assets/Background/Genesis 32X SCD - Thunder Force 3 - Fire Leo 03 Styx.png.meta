@@ -1,0 +1,2900 @@
+fileFormatVersion: 2
+guid: 4e00d41d47ada425da803b710f45cc0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7910368928925081236
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_0
+  - first:
+      213: 2595060510421897801
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_1
+  - first:
+      213: 6128553790264670874
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_2
+  - first:
+      213: 4648970559081167794
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_3
+  - first:
+      213: 3240615792141492829
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_4
+  - first:
+      213: 5770184244914283178
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_5
+  - first:
+      213: -7979222086947661183
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_6
+  - first:
+      213: -3258589540365935864
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_7
+  - first:
+      213: -3319694110864154612
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_8
+  - first:
+      213: 1381014059086891729
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_9
+  - first:
+      213: -1204115172994442340
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_10
+  - first:
+      213: -5443171665415045704
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_11
+  - first:
+      213: 1725343813380985006
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_12
+  - first:
+      213: -7022612728881620757
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_13
+  - first:
+      213: -8347027916339916626
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_14
+  - first:
+      213: 6654173423929091478
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_15
+  - first:
+      213: -4349286149939466804
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_16
+  - first:
+      213: 4550959263178170629
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_17
+  - first:
+      213: -8104276498969939537
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_18
+  - first:
+      213: -9081403218295171881
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_19
+  - first:
+      213: 3204295713371979945
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_20
+  - first:
+      213: -2553669866873269535
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_21
+  - first:
+      213: -3744647410806220898
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_22
+  - first:
+      213: 2504878841599387131
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_23
+  - first:
+      213: 366962782252812927
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_24
+  - first:
+      213: 2835283852703892569
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_25
+  - first:
+      213: -7050693450148626523
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_26
+  - first:
+      213: -3736095083807779428
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_27
+  - first:
+      213: 3954889355643919066
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_28
+  - first:
+      213: 325730600522121105
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_29
+  - first:
+      213: -5959034623990105392
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_30
+  - first:
+      213: 6292313465525539391
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_31
+  - first:
+      213: 2422369226208953934
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_32
+  - first:
+      213: 764060959203560496
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_33
+  - first:
+      213: -7015848682122595334
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_34
+  - first:
+      213: 4885252191660909219
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_35
+  - first:
+      213: 1306702438946028080
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_36
+  - first:
+      213: -7056869500768705395
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_37
+  - first:
+      213: -1246824393263148125
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_38
+  - first:
+      213: -4692159108460230202
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_39
+  - first:
+      213: -2500716394960991910
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_40
+  - first:
+      213: -5995742878518029574
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_41
+  - first:
+      213: 6437586605888701181
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_42
+  - first:
+      213: -5516324742373496945
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_43
+  - first:
+      213: -8419484257367522677
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_44
+  - first:
+      213: -1917564409149286489
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_45
+  - first:
+      213: 3609473658125975449
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_46
+  - first:
+      213: 1901930796008340556
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_47
+  - first:
+      213: -3372146632118721836
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_48
+  - first:
+      213: 8110356249217711920
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_49
+  - first:
+      213: -5160241263829168323
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_50
+  - first:
+      213: -779956483516063018
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_51
+  - first:
+      213: 8703364067519878285
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_52
+  - first:
+      213: -7452053971166539616
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_53
+  - first:
+      213: 2078379192920636636
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_54
+  - first:
+      213: 8695577526581775048
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_55
+  - first:
+      213: -1361766179390660273
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_56
+  - first:
+      213: 8349497724424220210
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_57
+  - first:
+      213: 846326172810735816
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_58
+  - first:
+      213: 5450960673600468434
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_59
+  - first:
+      213: 8556631648624400676
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_60
+  - first:
+      213: 511515605823811727
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_61
+  - first:
+      213: 3815050154762234461
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_62
+  - first:
+      213: -3935083522095118938
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_63
+  - first:
+      213: -8275771446056065981
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_64
+  - first:
+      213: 5501540421165693345
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_65
+  - first:
+      213: -6388575955631169219
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_66
+  - first:
+      213: -1870702075326306274
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_67
+  - first:
+      213: 4617107789197199409
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_68
+  - first:
+      213: 5205708941715832622
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_69
+  - first:
+      213: -816865360408753577
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_70
+  - first:
+      213: 1493978701957805501
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_71
+  - first:
+      213: 18597117475398052
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_72
+  - first:
+      213: -4496191266511181940
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_73
+  - first:
+      213: 3499743919170380448
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_74
+  - first:
+      213: 6343318582340424855
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_75
+  - first:
+      213: 5899378770126587522
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_76
+  - first:
+      213: 2082519129158904521
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_77
+  - first:
+      213: 5596791629177169188
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_78
+  - first:
+      213: 1547754922118662323
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_79
+  - first:
+      213: 2637365504818900021
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_80
+  - first:
+      213: -9002455079420498845
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_81
+  - first:
+      213: -2590152770832586433
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_82
+  - first:
+      213: 1485579750992909982
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_83
+  - first:
+      213: -1941690334789870973
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_84
+  - first:
+      213: -7825786288233556971
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_85
+  - first:
+      213: -2871892573609463431
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_86
+  - first:
+      213: -8133839695754554504
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_87
+  - first:
+      213: 8284421252454424672
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_88
+  - first:
+      213: 8011932550432786246
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_89
+  - first:
+      213: -4334680020710114528
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_90
+  - first:
+      213: 1820574172943864300
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_91
+  - first:
+      213: 4597697278231087111
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_92
+  - first:
+      213: 8274736751116112801
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_93
+  - first:
+      213: 5230896198524856763
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_94
+  - first:
+      213: 7237895733731132754
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_95
+  - first:
+      213: -5835092513700308501
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_96
+  - first:
+      213: 2721524064818357182
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_97
+  - first:
+      213: 1443368461613821235
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_98
+  - first:
+      213: -8901164420615920268
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_99
+  - first:
+      213: -75682980345734831
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_100
+  - first:
+      213: 6582922212590441871
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_101
+  - first:
+      213: -2603426125131138247
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_102
+  - first:
+      213: -8685098080868295892
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_103
+  - first:
+      213: 3559074244231666059
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_104
+  - first:
+      213: 1966031657858270505
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_105
+  - first:
+      213: -1553367502612831543
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_106
+  - first:
+      213: -5309701917112881655
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_107
+  - first:
+      213: 5923729873824719200
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_108
+  - first:
+      213: -842163283084306126
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_109
+  - first:
+      213: 6506101623888410417
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_110
+  - first:
+      213: 6707589933212227926
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_111
+  - first:
+      213: -3369557040413374275
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_112
+  - first:
+      213: -3500581385920367251
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_113
+  - first:
+      213: -277355072818787602
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_114
+  - first:
+      213: -864648198158824398
+    second: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61222dbe59b83290800000000000000
+      internalID: -7910368928925081236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425756f8c1830420800000000000000
+      internalID: 2595060510421897801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 141
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a7997a33ffc0550800000000000000
+      internalID: 6128553790264670874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 141
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb38499716748040800000000000000
+      internalID: 4648970559081167794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 138
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526d18b4eaf8fc20800000000000000
+      internalID: 3240615792141492829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 143
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ebaebfffc31050800000000000000
+      internalID: 5770184244914283178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a9883a9cb144190800000000000000
+      internalID: -7979222086947661183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 124
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5fa9e31a27c2d0800000000000000
+      internalID: -3258589540365935864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c006cfe6bc31ee1d0800000000000000
+      internalID: -3319694110864154612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 118
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac1b548f85a2310800000000000000
+      internalID: 1381014059086891729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b120d31af1a4fe0800000000000000
+      internalID: -1204115172994442340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdf67f9538f574b0800000000000000
+      internalID: -5443171665415045704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ddf79e07a1f710800000000000000
+      internalID: 1725343813380985006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 123
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8dfd33eeaaa8e90800000000000000
+      internalID: -7022612728881620757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_14
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 121
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05a44a556692c80800000000000000
+      internalID: -8347027916339916626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 57
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6956327497f585c50800000000000000
+      internalID: 6654173423929091478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 13
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccde4564a4b34a3c0800000000000000
+      internalID: -4349286149939466804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 97
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501220d7651482f30800000000000000
+      internalID: 4550959263178170629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 98
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1b9556673d78f80800000000000000
+      internalID: -8104276498969939537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 99
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d45d6763ef58f180800000000000000
+      internalID: -9081403218295171881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_20
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a008d669f1f77c20800000000000000
+      internalID: 3204295713371979945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 102
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2566739ca8f8cd0800000000000000
+      internalID: -2553669866873269535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 103
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e971fc51507580cc0800000000000000
+      internalID: -3744647410806220898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56ce6f80e13c220800000000000000
+      internalID: 2504878841599387131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ac7f9c4b6b71500800000000000000
+      internalID: 366962782252812927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95401dd54a3f85720800000000000000
+      internalID: 2835283852703892569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afb7bbc9a7e62e90800000000000000
+      internalID: -7050693450148626523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95dd82e059b62cc0800000000000000
+      internalID: -3736095083807779428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 65
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada11214ae692e630800000000000000
+      internalID: 3954889355643919066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 74
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f7890614a358400800000000000000
+      internalID: 325730600522121105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 71
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0daf0d0f4914d4da0800000000000000
+      internalID: -5959034623990105392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 71
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329e0042c9c25750800000000000000
+      internalID: 6292313465525539391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_32
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46c50b1afbfd9120800000000000000
+      internalID: 2422369226208953934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c821ce46d7a9a00800000000000000
+      internalID: 764060959203560496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3b0309bc2b2ae90800000000000000
+      internalID: -7015848682122595334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2a5223cf6ebc340800000000000000
+      internalID: 4885252191660909219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab38ce1f6522210800000000000000
+      internalID: 1306702438946028080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_37
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84a464f396f01e90800000000000000
+      internalID: -7056869500768705395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_38
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 50
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3124ef1d362bee0800000000000000
+      internalID: -1246824393263148125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 52
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94d96a62a12eeb0800000000000000
+      internalID: -4692159108460230202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ca5a20bbab4dd0800000000000000
+      internalID: -2500716394960991910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 34
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2da596e97dacca0800000000000000
+      internalID: -5995742878518029574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_42
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df20fc609e6e65950800000000000000
+      internalID: 6437586605888701181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872121afd31273b0800000000000000
+      internalID: -5516324742373496945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b828d9f1dabf72b80800000000000000
+      internalID: -8419484257367522677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_45
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a799be54517365e0800000000000000
+      internalID: -1917564409149286489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f7ab21b2d671230800000000000000
+      internalID: 3609473658125975449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf37b6bf3056a10800000000000000
+      internalID: 1901930796008340556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2a806218ab331d0800000000000000
+      internalID: -3372146632118721836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_49
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fbd74c906cd8070800000000000000
+      internalID: 8110356249217711920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_50
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f462229e32368b0800000000000000
+      internalID: -5160241263829168323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 34
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d223cbe5b90d25f0800000000000000
+      internalID: -779956483516063018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84db6bc18f88c870800000000000000
+      internalID: 8703364067519878285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05499556cf49890800000000000000
+      internalID: -7452053971166539616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcf89e3dd2e7dc10800000000000000
+      internalID: 2078379192920636636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_55
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cac6c470b5eca870800000000000000
+      internalID: 8695577526581775048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_56
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416742ffd80a1de0800000000000000
+      internalID: -1361766179390660273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eec3d51ff5fd370800000000000000
+      internalID: 8349497724424220210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ff7e8b21cebb00800000000000000
+      internalID: 846326172810735816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_59
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 34
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5749a2ad3b5ab40800000000000000
+      internalID: 5450960673600468434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_60
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295f1246234fb670800000000000000
+      internalID: 8556631648624400676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80723ebbb4491700800000000000000
+      internalID: 511515605823811727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae6ea17e7c1f430800000000000000
+      internalID: 3815050154762234461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50708b266c369c0800000000000000
+      internalID: -3935083522095118938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 22
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344e18b77bd862d80800000000000000
+      internalID: -8275771446056065981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_65
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b8095dd5695c40800000000000000
+      internalID: 5501540421165693345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31a00834083757a0800000000000000
+      internalID: -6388575955631169219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_67
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e697bf5ee906e0800000000000000
+      internalID: -1870702075326306274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_68
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c9c06213431040800000000000000
+      internalID: 4617107789197199409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_69
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 22
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ffb0393b46e3840800000000000000
+      internalID: 5205708941715832622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac38b5849e9a4f0800000000000000
+      internalID: -816865360408753577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b138c6bdabb410800000000000000
+      internalID: 1493978701957805501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_72
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a7f4daf1124000800000000000000
+      internalID: 18597117475398052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87236d6dd15a91c0800000000000000
+      internalID: -4496191266511181940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ebf25d86919030800000000000000
+      internalID: 3499743919170380448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_75
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794198d64aef70850800000000000000
+      internalID: 6343318582340424855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_76
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28640e43cbdced150800000000000000
+      internalID: 5899378770126587522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_77
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cae8734d1896ec10800000000000000
+      internalID: 2082519129158904521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_78
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 22
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252cfa655ccbad40800000000000000
+      internalID: 5596791629177169188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_79
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 22
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ce3cb6eaba7510800000000000000
+      internalID: 1547754922118662323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c699904fdc99420800000000000000
+      internalID: 2637365504818900021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_81
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ceab46dcad01380800000000000000
+      internalID: -9002455079420498845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_82
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a78437cded0cd0800000000000000
+      internalID: -2590152770832586433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96127f99e6dd9410800000000000000
+      internalID: 1485579750992909982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_84
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a5a039deabd05e0800000000000000
+      internalID: -1941690334789870973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_85
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51457b965d8356390800000000000000
+      internalID: -7825786288233556971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_86
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971fce49becf428d0800000000000000
+      internalID: -2871892573609463431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_87
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 8
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873149244ebce1f80800000000000000
+      internalID: -8133839695754554504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_88
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602e328c3d28f270800000000000000
+      internalID: 8284421252454424672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_89
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478fe0a43a103f60800000000000000
+      internalID: 8011932550432786246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b379ebc7f18d3c0800000000000000
+      internalID: -4334680020710114528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d191809af34910800000000000000
+      internalID: 1820574172943864300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7088ebd905d4ecf30800000000000000
+      internalID: 4597697278231087111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_93
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a35524db35c5d270800000000000000
+      internalID: 8274736751116112801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_94
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e30ac060e79840800000000000000
+      internalID: 5230896198524856763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_95
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2550c5262db227460800000000000000
+      internalID: 7237895733731132754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91a514646950fa0800000000000000
+      internalID: -5835092513700308501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ec2bb7bbc4c520800000000000000
+      internalID: 2721524064818357182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_98
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6e72f7ffd70410800000000000000
+      internalID: 1443368461613821235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_99
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 10
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a7ddae16b87480800000000000000
+      internalID: -8901164420615920268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15913f8fabe13fef0800000000000000
+      internalID: -75682980345734831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_101
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f855b71efdc3b5b50800000000000000
+      internalID: 6582922212590441871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_102
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 10
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b36949bb5cedbd0800000000000000
+      internalID: -2603426125131138247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_103
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b1b62af45587780800000000000000
+      internalID: -8685098080868295892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_104
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899ba81b2f546130800000000000000
+      internalID: 3559074244231666059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92580d7506fb84b10800000000000000
+      internalID: 1966031657858270505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_106
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c260298c74517ae0800000000000000
+      internalID: -1553367502612831543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 10
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ea6470d362056b0800000000000000
+      internalID: -5309701917112881655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06121ba5fe0553250800000000000000
+      internalID: 5923729873824719200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_109
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23912ecb4f80054f0800000000000000
+      internalID: -842163283084306126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_110
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137f574c4f05a4a50800000000000000
+      internalID: 6506101623888410417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659d9148185261d50800000000000000
+      internalID: 6707589933212227926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_112
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88eb379bdec31d0800000000000000
+      internalID: -3369557040413374275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d653fd0c6cf6b6fc0800000000000000
+      internalID: -3500581385920367251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_114
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 10
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeacbffd703a62cf0800000000000000
+      internalID: -277355072818787602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Thunder Force 3 - Fire Leo 03 Styx_115
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ccf0d7b072004f0800000000000000
+      internalID: -864648198158824398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
